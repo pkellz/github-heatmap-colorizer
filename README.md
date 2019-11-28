@@ -9,7 +9,7 @@
 :star: Overview
 --------
 
-A Chrome extension that changes colors of contribution heatmaps in GitHub.
+A Chrome extension that changes the colors of contribution heatmaps in GitHub.
 
 Features:
 
