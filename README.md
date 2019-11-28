@@ -35,7 +35,10 @@ Purple                                |  Yellow
 :----------------------------------:|:--------------------------------------:		
 ![Purple](https://github.com/pkellz/github-heatmap-colorizer/blob/master/docs/purple_demo.png?raw=true)|![Yellow](https://github.com/pkellz/github-heatmap-colorizer/blob/master/docs/yellow_demo.png?raw=true)
 
+## :hammer:  Usage
+![Purple](https://github.com/pkellz/github-heatmap-colorizer/blob/master/docs/demo.gif?raw=true)
+
 :family: Contributing
 ------------
 
-Contributions are always welcome.
+Contributions are welcome!
