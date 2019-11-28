@@ -15,7 +15,6 @@ Features:
 
   * Colorize contribution graph and legend
   * Colorize activity overview graph
-  * Colorize activity listing progress bar
 
 :wrench: Install
 -------
