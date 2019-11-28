@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Heatmap Customizer</title>
+  <link rel="stylesheet" href="/css/master.css">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300&700&display=swap" rel="stylesheet">
+  <script src="jquery.js" charset="utf-8"></script>
+  <script src="popup.js" charset="utf-8"></script>
+  <script src="jscolor.js" charset="utf-8"></script>
+</head>
+<body>
+  <style>
+    body 
+    {
+      font-family: "Open Sans";
+      padding:10px;
+      min-height:225px;
+      min-width:250px;
+      overflow:visible;
+    }
+    input
+    {
+      font-family: "Open Sans", sans-serif;
+    }
+    [type='text']
+    {
+      font-weight:bold;
+      padding:3px;
+      border:none;
+      border-radius: 3px;
+      text-align: center;
+    }
+    h3
+    {
+      text-align:center;
+    }
+  </style>
+
+  <h3>Choose Main Color</h3>
+
+  <input type="text" id="fontColor" class="jscolor" value="4594A8">
+  <input type="submit" id="btnChange" value="Submit">
+</body>
+</html>
