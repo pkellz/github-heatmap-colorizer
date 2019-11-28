@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-   Colorize Github contribution heatmaps
+   Colorize Github Contribution Heatmaps
 </h2>
 
 :star: Overview
