@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GitHub Heatmap Colorizer" src="https://github.com/pkellz/github-heatmap-colorizer/blob/master/icons/logo_128x128.png?raw=true">
+  <img alt="GitHub Heatmap Colorizer" src="https://github.com/pkellz/github-heatmap-colorizer/blob/master/icons/logo.png?raw=true">
 </p>
 
 <h2 align="center">
