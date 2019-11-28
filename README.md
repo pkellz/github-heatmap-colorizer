@@ -6,7 +6,7 @@
    Colorize Github contribution heatmaps
 </h2>
 
-Overview
+:star: Overview
 --------
 
 A Chrome extension that changes colors of contribution heatmaps in GitHub.
@@ -17,17 +17,25 @@ Features:
   * Colorize activity overview graph
   * Colorize activity listing progress bar
 
-Install
+:wrench: Install
 -------
-  1. Download the [plugin files]()
-  2. Visit `chrome://extensions` in Chrome and drag the folder.
+  1. Download the [plugin files](https://github.com/pkellz/github-heatmap-colorizer/blob/master/plugin.zip?raw=true)
+  2. Unzip the folder
+  3. Visit `chrome://extensions`
+  4. Make sure 'Developer Mode' is enabled
+  5. Drag and drop the unzipped folder
 
-Screenshots
+:camera: Screenshots
 -----------
+Blue                           |  Red
+:----------------------------------:|:--------------------------------------:		
+![Blue](https://github.com/pkellz/github-heatmap-colorizer/blob/master/docs/blue_demo.png?raw=true)|![Red](https://github.com/pkellz/github-heatmap-colorizer/blob/master/docs/red_demo.png?raw=true)
 
-Contributing
+Purple                                |  Yellow
+:----------------------------------:|:--------------------------------------:		
+![Purple](https://github.com/pkellz/github-heatmap-colorizer/blob/master/docs/purple_demo.png?raw=true)|![Yellow](https://github.com/pkellz/github-heatmap-colorizer/blob/master/docs/yellow_demo.png?raw=true)
+
+:family: Contributing
 ------------
 
 Contributions are always welcome.
-
-See [Contributing](CONTRIBUTING.md).
